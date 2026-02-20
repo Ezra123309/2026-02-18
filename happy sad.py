@@ -1,4 +1,4 @@
-a = input('enter a string:')
+a = input()
 happy = a.count(":-)")
 sad = a.count(":-(")
 if happy > sad:
